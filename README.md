@@ -3,7 +3,7 @@
 ## Overview
 - This project is used to do below
   - Chat
-    - LLM Selection
+    - LLM Selection & Settings
     - System Prompt
     - Tool/MCP Selection [Opt-in/out]
     - Speech to Text
@@ -13,6 +13,7 @@
     - Retry
     - QA or Send Chat History
     - Login/Authentication
+    - Memory
   - MCP
     - OpenAPI
     - Database
