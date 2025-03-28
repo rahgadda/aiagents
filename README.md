@@ -12,6 +12,7 @@
     - Download
     - Retry
     - QA or Send Chat History
+    - Login/Authentication
   - MCP
     - OpenAPI
     - Database
