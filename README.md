@@ -1,32 +1,11 @@
-# Agents
+# AIAgents
 
 ## Overview
-- This project is used to do below
-  - Chat
-    - LLM Selection & Settings
-    - System Prompt
-    - Tool/MCP Selection [Opt-in/out]
-    - Speech to Text
-    - Text to Speech
-    - History
-    - Download
-    - Retry
-    - QA or Send Chat History
-    - Login/Authentication
-    - Memory
-  - MCP
-    - OpenAPI
-    - Database
-    - WebSearch
-    - File Access
-    - File Generator (PDF, Exce, CSV, Mermaid, Plotly, Images, Videos)
-  - Desktop/Web Use
-  - Pluggable Apps
+- This project is re-write of [HarmonyHub](https://github.com/rahgadda/HarmonyHub)
+- We will create a HTML based AI Agents centric applications that supports AgenticFlow and AIAgents.
+- It will be single application that will support LLM, Integrations, Flows & Business Logic.
+- Entire application will be build using Github Copilot Vibe Coding.
 
-## Technical Specification
-- UI is build on 
-  - Native HTML Webcomponents 
-  - CSS
-  - Javascript
-- Langchain/Langgraph for LLM integration
-- Database - SQLLite
+## Reference
+- [n8n.io](https://n8n.io/)
+- [flows - Postman](https://www.postman.com/product/flows/)
