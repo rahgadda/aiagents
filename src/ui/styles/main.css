@@ -1,0 +1,18 @@
+/* Light mode styles */
+:root {
+  --background-color: #ffffff;
+  --text-color: #000000;
+}
+
+/* Dark mode styles */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #121212;
+    --text-color: #ffffff;
+  }
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}

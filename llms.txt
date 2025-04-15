@@ -1,0 +1,6 @@
+1. Use Tailwindcss and do not use native css
+2. Tailwindcss is already loaded. Do not loaded it.
+3. Only use html native web components and vanilla javascript.
+
+4. Display AIAgent Flow on the left corner.
+5. Display git on the right corner.
